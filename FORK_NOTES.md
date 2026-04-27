@@ -29,8 +29,9 @@ The fork tracks the exact ezkl-pinned commit (currently
 
 ## Upstream contribution
 
-A PR against `zkonduit/halo2` proposing the same change is tracked at: _(PR
-URL added once submitted)_. If upstream merges, this fork can be retired.
+A PR against `zkonduit/halo2` proposing the same change is open at
+[zkonduit/halo2#27](https://github.com/zkonduit/halo2/pull/27). If upstream
+merges, this fork can be retired.
 
 ## How to consume
 
