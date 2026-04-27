@@ -12,7 +12,8 @@
 #![deny(rustdoc::broken_intra_doc_links)]
 #![deny(missing_debug_implementations)]
 #![deny(missing_docs)]
-#![feature(int_roundings)]
+// Patched out for stable Rust: int_roundings was stabilized in 1.73 (Oct 2023).
+// Original line: #![feature(int_roundings)]
 
 #[cfg(feature = "counter")]
 #[macro_use]
